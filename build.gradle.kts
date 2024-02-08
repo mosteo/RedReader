@@ -70,7 +70,7 @@ android {
 	namespace = "org.quantumbadger.redreader"
 
 	defaultConfig {
-		applicationId = "org.quantumbadger.redreader"
+		applicationId = "org.quantumbadger.redreader.nemo"
 		minSdk = 16
 		targetSdk = 33
 		versionCode = 112

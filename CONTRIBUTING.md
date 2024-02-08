@@ -12,7 +12,7 @@ following link:
 https://old.reddit.com/prefs/apps
 
 Create an app with the type "Installed app" at the above page, and note the ID.
-Also set the Redirect URI to "redreader://rr_oauth_redir".
+Also set the Redirect URI to "oLxNfKEi1-BHkCMTpTSOEQ".
 
 You can set the ID at build time, or at runtime.
 
